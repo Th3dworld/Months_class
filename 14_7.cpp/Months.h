@@ -12,7 +12,7 @@ class Months
 		string name;
 		int monthNumber;
 		string months[12] = { "January", "February", "March", "April", "May", "June", "July",
-							 "August", "September", "October", "November", "December" };
+							 "August", "September", "October", "November", "December" };//
 	
 	//Declare public member functions
 	public:
